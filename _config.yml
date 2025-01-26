@@ -20,8 +20,6 @@ description: "Book reviews and thoughts about biology and science as a socio-pol
 #########################################################################################
 theme: "minima"
 
-#rss: rss
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
