@@ -18,7 +18,7 @@ description: "Book reviews and thoughts about biology and science as a socio-pol
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+#theme: "minima"
 
 kramdown:
   syntax_highlighter_opts:
