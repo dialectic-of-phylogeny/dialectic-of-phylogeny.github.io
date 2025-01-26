@@ -1,6 +1,6 @@
 title: "Dialectic of phylogeny"
 #author: "Default Author Name"
-description: "Book reviews and thoughts about biology and science as a socio-political activity." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Book reviews, thoughts about biology, and about science as a socio-political activity." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -18,8 +18,8 @@ description: "Book reviews and thoughts about biology and science as a socio-pol
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-#theme: "minima"
-remote_theme: jekyll/minima
+theme: "minima"
+#remote_theme: jekyll/minima
 
 kramdown:
   syntax_highlighter_opts:
