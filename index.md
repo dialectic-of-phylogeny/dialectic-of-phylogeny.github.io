@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog is current inactive. In the future, it will contain some of my thoughts on books and papers I find interesting, possibly with commentary on the relations between science and society. The name for the blog is inspired by Adorno and Horkheimer's work by a similar name. 
