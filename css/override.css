@@ -3,6 +3,13 @@ hr {
   margin-bottom: 20px;
 }
 
+body {
+  font-family: 'Computer Modern Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
